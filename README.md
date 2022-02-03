@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=272343&height=250&section=header&text=Hello%20Anderson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=어제의%20나에게%20지고싶지%20안않은%20러너,%20Anderson%20입니다!!!&descAlignY=60&descAlign=62&fontColor=f7f7f7)
+![header](https://capsule-render.vercel.app/api?type=waving&color=272343&height=250&section=header&text=Hello%20Anderson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=어제의%20나에게%20지고싶지%20않은%20러너,%20Anderson%20입니다!!!&descAlignY=60&descAlign=62&fontColor=f7f7f7)
 
 ## Drillings🔥🔥🔥
 <p align='left'>
