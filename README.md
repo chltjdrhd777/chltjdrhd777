@@ -18,4 +18,4 @@
 <img src="https://camo.githubusercontent.com/78f47b01f6088c0b3e55868ba8a5ca65c5b6b58a10e065f2acab8b8282364735/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732e6a732d64656570677265656e"/>
 </p>
 
-[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=chltjdrhd777)](https://github.com/anuraghazra/github-readme-stats)
+[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=chltjdrhd777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
