@@ -1,14 +1,10 @@
-## 👋 Hi, I am Anderson.
-
----
+## **_👋 Hi, I am Anderson._**
 
 I am a **Frontend Developer** in South Korea.
 
 I give importance to the experience of working with others, meeting enlightenment, and communication.
 
----
-
-### **_🛠 Teck Stack_**
+## **🛠 Teck Stack**
 
 <p align='left'>
   
@@ -27,14 +23,8 @@ I give importance to the experience of working with others, meeting enlightenmen
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
-
-### **_💾 Record_**
+## **💾 Record**
 
 ["앤더손씨의 배우고 연구했던 기록들"](https://github.com/users/chltjdrhd777/projects/3)
 
 </p>
-
----
-
-[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=chltjdrhd777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
