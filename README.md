@@ -30,3 +30,8 @@ I give importance to the experience of working with others, meeting enlightenmen
 ["앤더손씨의 배우고 연구했던 기록들"](https://github.com/users/chltjdrhd777/projects/3)
 
 </p>
+
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chltjdrhd777&show_icons=true&locale=en&layout=compact" alt="chltjdrhd777" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chltjdrhd777&show_icons=true&locale=en" alt="chltjdrhd777" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chltjdrhd777" alt="chltjdrhd777" /></p>
