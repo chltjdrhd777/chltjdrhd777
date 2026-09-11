@@ -5,18 +5,6 @@
 I build web applications with **React, Next.js, and TypeScript**.
 I'm interested in **frontend architecture, data fetching, caching, and web runtime behavior**.
 
----
-
-## 🧑‍💻 About Me
-
-* 🔨 Building production web applications with React / Next.js
-* 🔄 Interested in data fetching, caching, and real-time data
-* 🌐 Experienced with GraphQL, REST APIs, React Query, Apollo Client, and AWS environments
-* 🔬 Exploring JavaScript runtimes, networking, and Rust
-* 🤝 I value clear communication and collaborative problem solving
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
