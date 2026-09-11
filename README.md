@@ -1,36 +1,54 @@
-## **_👋 Hi, I am Anderson._**
+# 👋 Hi, I'm Anderson
 
-I am a **Frontend Developer** in South Korea.
+**Frontend Developer based in South Korea 🇰🇷**
 
-I give importance to the experience of working with others, meeting enlightenment, and communication.
+I build web applications with **React, Next.js, and TypeScript**.
+I'm interested in **frontend architecture, data fetching, caching, and web runtime behavior**.
 
-## **🛠 Teck Stack**
+---
 
-<p align='left'>
-  
-**💎 FRONTEND**
+## 🧑‍💻 About Me
 
-![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/reactnative-00DEED?style=for-the-badge&logo=react&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=graphql&logoColor=white)
+* 🔨 Building production web applications with React / Next.js
+* 🔄 Interested in data fetching, caching, and real-time data
+* 🌐 Experienced with GraphQL, REST APIs, React Query, Apollo Client, and AWS environments
+* 🔬 Exploring JavaScript runtimes, networking, and Rust
+* 🤝 I value clear communication and collaborative problem solving
 
-**💎 BACKEND**
+---
 
-![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🛠 Tech Stack
 
-## **💾 Record**
+### Frontend
 
-["앤더손씨의 배우고 연구했던 기록들"](https://github.com/users/chltjdrhd777/projects/3)
-
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-## **📈Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chltjdrhd777&show_icons=true&locale=en&layout=compact" alt="chltjdrhd777" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chltjdrhd777&show_icons=true&locale=en" alt="chltjdrhd777" /></p>
+### Data Fetching & API
+
+<p>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" />
+</p>
+
+### Backend & Infra
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## 📚 Notes
+
+Things I've learned, investigated, and experimented with.
+
+👉 [Development & Research Notes](https://github.com/users/chltjdrhd777/projects/3)
