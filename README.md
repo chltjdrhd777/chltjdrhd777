@@ -34,7 +34,6 @@ I'm interested in **frontend architecture, data fetching, caching, and web runti
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
----
 
 ## 📚 Notes
 
